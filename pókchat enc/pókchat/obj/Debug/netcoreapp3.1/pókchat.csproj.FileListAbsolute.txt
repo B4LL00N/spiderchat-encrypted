@@ -1,0 +1,34 @@
+C:\Users\starr\Desktop\pókchat\pókchat\bin\Debug\netcoreapp3.1\pókchat.exe
+C:\Users\starr\Desktop\pókchat\pókchat\bin\Debug\netcoreapp3.1\pókchat.deps.json
+C:\Users\starr\Desktop\pókchat\pókchat\bin\Debug\netcoreapp3.1\pókchat.runtimeconfig.json
+C:\Users\starr\Desktop\pókchat\pókchat\bin\Debug\netcoreapp3.1\pókchat.runtimeconfig.dev.json
+C:\Users\starr\Desktop\pókchat\pókchat\bin\Debug\netcoreapp3.1\pókchat.dll
+C:\Users\starr\Desktop\pókchat\pókchat\bin\Debug\netcoreapp3.1\pókchat.pdb
+C:\Users\starr\Desktop\pókchat\pókchat\obj\Debug\netcoreapp3.1\pókchat.csprojAssemblyReference.cache
+C:\Users\starr\Desktop\pókchat\pókchat\obj\Debug\netcoreapp3.1\pókchat.AssemblyInfoInputs.cache
+C:\Users\starr\Desktop\pókchat\pókchat\obj\Debug\netcoreapp3.1\pókchat.AssemblyInfo.cs
+C:\Users\starr\Desktop\pókchat\pókchat\obj\Debug\netcoreapp3.1\pókchat.csproj.CoreCompileInputs.cache
+C:\Users\starr\Desktop\pókchat\pókchat\obj\Debug\netcoreapp3.1\pókchat.dll
+C:\Users\starr\Desktop\pókchat\pókchat\obj\Debug\netcoreapp3.1\pókchat.pdb
+C:\Users\starr\Desktop\pókchat\pókchat\obj\Debug\netcoreapp3.1\pókchat.genruntimeconfig.cache
+C:\Users\starr\Desktop\pókchat\pókchat\obj\Debug\netcoreapp3.1\pókchat.Form1.resources
+C:\Users\starr\Desktop\pókchat\pókchat\obj\Debug\netcoreapp3.1\pókchat.csproj.GenerateResource.cache
+C:\Users\starr\Desktop\pókchat\pókchat\obj\Debug\netcoreapp3.1\pókchat.Properties.Resources.resources
+C:\Users\starr\Desktop\pókchat\pókchat\obj\Debug\netcoreapp3.1\pókchat.Form2.resources
+C:\Users\starr\Desktop\pókchat enc\pókchat\bin\Debug\netcoreapp3.1\pókchat encrypted.exe
+C:\Users\starr\Desktop\pókchat enc\pókchat\bin\Debug\netcoreapp3.1\pókchat encrypted.deps.json
+C:\Users\starr\Desktop\pókchat enc\pókchat\bin\Debug\netcoreapp3.1\pókchat encrypted.runtimeconfig.json
+C:\Users\starr\Desktop\pókchat enc\pókchat\bin\Debug\netcoreapp3.1\pókchat encrypted.runtimeconfig.dev.json
+C:\Users\starr\Desktop\pókchat enc\pókchat\bin\Debug\netcoreapp3.1\pókchat encrypted.dll
+C:\Users\starr\Desktop\pókchat enc\pókchat\bin\Debug\netcoreapp3.1\pókchat encrypted.pdb
+C:\Users\starr\Desktop\pókchat enc\pókchat\obj\Debug\netcoreapp3.1\pókchat.csprojAssemblyReference.cache
+C:\Users\starr\Desktop\pókchat enc\pókchat\obj\Debug\netcoreapp3.1\pókchat.Form1.resources
+C:\Users\starr\Desktop\pókchat enc\pókchat\obj\Debug\netcoreapp3.1\pókchat.Form2.resources
+C:\Users\starr\Desktop\pókchat enc\pókchat\obj\Debug\netcoreapp3.1\pókchat.Properties.Resources.resources
+C:\Users\starr\Desktop\pókchat enc\pókchat\obj\Debug\netcoreapp3.1\pókchat.csproj.GenerateResource.cache
+C:\Users\starr\Desktop\pókchat enc\pókchat\obj\Debug\netcoreapp3.1\pókchat.AssemblyInfoInputs.cache
+C:\Users\starr\Desktop\pókchat enc\pókchat\obj\Debug\netcoreapp3.1\pókchat.AssemblyInfo.cs
+C:\Users\starr\Desktop\pókchat enc\pókchat\obj\Debug\netcoreapp3.1\pókchat.csproj.CoreCompileInputs.cache
+C:\Users\starr\Desktop\pókchat enc\pókchat\obj\Debug\netcoreapp3.1\pókchat encrypted.dll
+C:\Users\starr\Desktop\pókchat enc\pókchat\obj\Debug\netcoreapp3.1\pókchat encrypted.pdb
+C:\Users\starr\Desktop\pókchat enc\pókchat\obj\Debug\netcoreapp3.1\pókchat.genruntimeconfig.cache
